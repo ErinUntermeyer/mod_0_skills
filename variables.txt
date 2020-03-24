@@ -1,0 +1,9 @@
+var food = "pizza"
+is_new = true
+food = "ice cream"
+num1 = 15
+num2 = 40
+num3 = num1 * num2
+var movies = ["Good Will Hunting", "Holes", "Frozen 2"]
+var newMovies = movies.slice(0, -1)
+movies.length
