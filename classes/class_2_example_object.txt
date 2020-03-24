@@ -1,4 +1,4 @@
-Erin's Famous Apple Pie
+Erin's Apple Pie
 
 Attributes
 cuisine: "dessert"
