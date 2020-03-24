@@ -1,0 +1,13 @@
+Class: food
+
+Attributes
+cuisine (string)
+fresh (boolean)
+ingredients (array)
+serving_size (integer)
+
+Methods
+print_cuisine (prints cuisine string)
+expiration_date_passes (changes fresh boolean to false)
+add_ingredients (adds ingredient to ingredients array)
+ask_for_seconds (doubles serving_size integer)

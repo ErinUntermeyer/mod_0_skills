@@ -1,0 +1,13 @@
+Erin's Famous Apple Pie
+
+Attributes
+cuisine: "dessert"
+fresh: true
+ingredients: ["Apple", "Crust", "Cinnamon"]
+serving_size: 1
+
+Methods
+print_cuisine: "dessert"
+expiration_date_passes: fresh: false
+add_ingredients: ingredients: ["Apple", "Crust", "Cinnamon", "Whipped Cream"]
+ask_for_seconds: serving_size: 2
