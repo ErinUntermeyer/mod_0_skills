@@ -1,4 +1,4 @@
-Class: Food
+Class: food
 
 Attributes
 cuisine (string)
