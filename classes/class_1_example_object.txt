@@ -1,0 +1,13 @@
+Erin's Bar Stool
+
+Attributes
+name: "bar stool"
+color: ["black", "purple"]
+total_pieces: 1
+occupied: false
+
+Methods
+print_name: "bar stool"
+paint ["black", "purple", "white"]
+buy_chair: total_pieces: 2
+sit_in_chair: occupied: true
