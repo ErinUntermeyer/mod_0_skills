@@ -1,0 +1,13 @@
+Class: furniture
+
+Attributes
+name (string)
+color (array)
+total_pieces (integer)
+occupied (boolean)
+
+Methods
+print_name (prints name string)
+paint (adds color to color array)
+buy_chair (increases total_pieces integer)
+sit_in_chair (changes occupied to true)
