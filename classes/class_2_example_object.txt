@@ -2,12 +2,12 @@ Erin's Apple Pie
 
 Attributes
 cuisine: "dessert"
-fresh: true
+isFresh: true
 ingredients: ["Apple", "Crust", "Cinnamon"]
-serving_size: 1
+servingSize: 1
 
 Methods
-print_cuisine: "dessert"
-expiration_date_passes: fresh: false
-add_ingredients: ingredients: ["Apple", "Crust", "Cinnamon", "Whipped Cream"]
-ask_for_seconds: serving_size: 2
+printCuisine: "dessert"
+passExpirationDate: isFresh: false
+addIngredients: ingredients: ["Apple", "Crust", "Cinnamon", "Whipped Cream"]
+askForSeconds: servingSize: 2
